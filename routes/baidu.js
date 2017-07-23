@@ -1,7 +1,7 @@
 var express = require('express');
 var router = express.Router();
 var AV = require('leanengine');
-var proxy = require('http-proxy-middleware');
+var proxy = require('../http-proxy-middleware');
 
 
 
