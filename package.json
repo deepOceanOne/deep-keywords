@@ -1,0 +1,28 @@
+{
+  "name": "deep-keywords",
+  "version": "1.0.0",
+  "description": "use keywords , for better use of understanding myself.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepOceanOne/deep-keywords.git"
+  },
+  "keywords": [
+    "proxy"
+  ],
+  "author": "Teslar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepOceanOne/deep-keywords/issues"
+  },
+  "homepage": "https://github.com/deepOceanOne/deep-keywords#readme",
+  "devDependencies": {
+    "http-proxy-middleware": "^0.17.4"
+  },
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}

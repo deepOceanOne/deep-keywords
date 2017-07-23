@@ -1,0 +1,22 @@
+{
+  "name": "stream-tool",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "serby",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "description": "Streaming search for an array of regexs in a given stream, emits event when found.",
+  "repository": {
+    "type": "git",
+    "url": "github.com/serby/stream-grep"
+  },
+  "keywords": [
+    "grep",
+    "stream",
+    "find"
+  ]
+}
